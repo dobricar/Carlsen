@@ -1,0 +1,36 @@
+#main {
+    text-align:center;
+    background-color:#ebebe0;
+     padding:15px;
+    
+  }
+  #title {
+    font-size:50px;
+    font-family:sans-serif;
+  }
+  h2 {
+    font-family:sans-serif;
+    color: #262626;
+  }
+  #image {
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
+  #img-caption {
+    font-family:sans-serif;
+    font-size:12px;
+    text-align:center;
+  }
+  p {
+    font-family:Verdana;
+    text-align:justify;
+  }
+  #link {
+    font-size:20px;
+  }
+  
+  #link {
+    text-align:center;
+  }
